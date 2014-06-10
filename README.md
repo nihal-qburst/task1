@@ -1,10 +1,10 @@
 task1
 =====
 
+
 task1_xml :
-
-    ruby script to parse  http://www.qburst.com/sitemap.xml  and store in XML database
-
+  
+  ruby script to parse  http://www.qburst.com/sitemap.xml  and store in XML database
 
 task1_pg :
   
