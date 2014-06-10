@@ -4,7 +4,6 @@ require 'open-uri'
 
 include REXML
 
-
 begin
 	#connects to MySQL server using the object db
 	db = Mysql2::Client.new(:host => "localhost", :username => "root", :password => "qburst")    

@@ -1,6 +1,7 @@
 require 'rexml/document'
 require 'open-uri'
 require 'mongo'
+
 include Mongo
 include REXML
 
